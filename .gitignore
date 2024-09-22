@@ -28,8 +28,7 @@ yarn-error.log*
 # Coverage directory used by tools like istanbul
 coverage/
 
-# config folder
-config/
+
 
 # Build directory
 build/
